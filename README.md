@@ -84,7 +84,7 @@ Built interactive visuals including:
 * Dashboard Screenshots
 
 ## Dashboard Preview
-
+Screenshot 2026-04-18 224413.png
 ## Author
 
 **Sinazo Ntsimbi**
