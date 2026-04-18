@@ -84,7 +84,8 @@ Built interactive visuals including:
 * Dashboard Screenshots
 
 ## Dashboard Preview
-Screenshot 2026-04-18 224413.png
+https://github.com/Sinazo35/Grocery-Price-Analysis/blob/89bea1c1937a25884814b170671dbc0cf658506c/Grocery%20Price%20Analysis.pbix
+
 ## Author
 
 **Sinazo Ntsimbi**
